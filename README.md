@@ -21,4 +21,4 @@
 6.选择模式开始执行，window执行和硬件执行是全部功能都可以执行，安卓执行只有 识别到__时左键点击 和 识别到__时按下左键，移动后再松开左键，硬件执行需要ch340和ch9329,端口号找有ch340的，填数字就行了
 
 
-PyComKB.py是别人写好的，这是原代码https://gitee.com/NetPuppetLib/pycomkb/tree/master，但是这个文件的鼠标移动写的不行，所以我修改了一下确保能用
+PyComKB.py是别人写好的，这是原代码https://gitee.com/NetPuppetLib/pycomkb/tree/master               但是这个文件的鼠标移动写的不行，所以我修改了一下确保能用
